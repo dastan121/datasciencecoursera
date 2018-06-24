@@ -1,2 +1,2 @@
-# test.repo
+# datasciencecoursera
 Just getting started with github
